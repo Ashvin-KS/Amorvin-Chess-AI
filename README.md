@@ -7,7 +7,7 @@
 
 A **Chess AI** built with **PyTorch**, featuring both **Supervised Learning** and **Reinforcement Learning (Self-Play)**. Train, play, and improve the AI with Monte Carlo Tree Search (MCTS) and a deep neural network.
 
-![chess]([https://media.giphy.com/media/l0HlQ7LRalj0hQYuk/giphy.gif](https://imgs.search.brave.com/nGOxQnqbmMIS7hTN_W83auctAOPcLbhlXOjhMMKqc4k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPR3BsTm5SMmFI/QmpOSFF3T1d3NWN6/UnpNR3g1YTJnd1pY/VnJNemxsWVhKemEz/WjBhakF6YnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vaHpBUjRWODZ6/dUNLUUtlNmtQLzIw/MC5naWY.gif))
+![chess]([https://media.giphy.com/media/l0HlQ7LRalj0hQYuk/giphy.gif](https://imgs.search.brave.com/nGOxQnqbmMIS7hTN_W83auctAOPcLbhlXOjhMMKqc4k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPR3BsTm5SMmFI/QmpOSFF3T1d3NWN6/UnpNR3g1YTJnd1pY/VnJNemxsWVhKemEz/WjBhakF6YnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vaHpBUjRWODZ6/dUNLUUtlNmtQLzIw/MC5naWY.gif)
 
 -----
 
