@@ -1,0 +1,20 @@
+# Ignore processed data files
+processed_data/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore PyTorch models
+*.pth
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore editor/IDE specific files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
